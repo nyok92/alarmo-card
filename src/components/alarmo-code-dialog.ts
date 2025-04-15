@@ -342,7 +342,7 @@ export class AlarmoCodeDialog
     }
     ha-textfield {
       width: 100%;
-      max-width: 240px;
+      max-width: 400px;
       margin: 0px auto;
       text-align: center;
       margin-left: calc(50% - 240px / 2);
